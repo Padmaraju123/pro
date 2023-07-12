@@ -1,0 +1,156 @@
+2023-07-06 13:56:43,517 :INFO : tests.test_logging :A info is executed 
+2023-07-06 13:56:43,517 :WARNING : tests.test_logging :Something is warning mode 
+2023-07-06 13:56:43,517 :ERROR : tests.test_logging :A major error occur 
+2023-07-06 13:56:43,517 :CRITICAL : tests.test_logging :Critical issue 
+2023-07-06 14:07:16,277 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:07:16,278 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:07:16,279 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:07:16,279 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:07:39,878 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:07:39,878 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:07:39,885 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:07:39,885 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:07:39,886 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:07:39,886 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:07:39,886 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:07:39,886 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:08:20,719 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:08:20,720 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:08:20,721 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:08:20,721 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:08:44,564 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:08:44,564 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:08:44,565 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:08:44,565 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:08:44,565 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:08:44,565 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:08:44,565 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:08:44,565 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:09:41,698 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:09:41,700 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:09:41,700 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:09:41,700 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:10:07,180 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:10:07,180 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:10:07,180 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:10:07,180 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:10:07,180 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:10:07,180 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:10:07,181 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:10:07,181 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:11:15,258 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:11:15,258 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:11:15,259 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:11:15,259 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:11:39,175 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:11:39,175 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:11:39,176 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:11:39,176 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:11:39,176 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:11:39,176 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:11:39,176 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:11:39,176 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:12:49,813 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:12:49,814 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:12:49,815 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:12:49,815 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:14:12,613 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:14:12,613 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:14:12,614 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:14:12,614 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:14:12,614 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:14:12,614 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:14:12,615 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:14:12,615 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:20:23,637 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:20:23,637 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:20:23,638 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:20:23,638 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:21:42,184 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:21:42,184 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:21:42,184 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:21:42,184 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:21:42,185 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:21:42,185 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:21:42,185 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:21:42,185 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:23:06,062 :INFO : tests.test_logging :A info is executed 
+2023-07-06 14:23:06,063 :WARNING : tests.test_logging :Something is warning mode 
+2023-07-06 14:23:06,063 :ERROR : tests.test_logging :A major error occur 
+2023-07-06 14:23:06,063 :CRITICAL : tests.test_logging :Critical issue 
+2023-07-06 14:47:11,997 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:47:11,998 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:47:11,998 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:47:11,998 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:47:35,627 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:47:35,627 :INFO : utilities.basefile :A info is executed 
+2023-07-06 14:47:35,627 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:47:35,627 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 14:47:35,627 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:47:35,627 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 14:47:35,627 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 14:47:35,627 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 15:33:43,183 :INFO : utilities.basefile :A info is executed 
+2023-07-06 15:33:43,184 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 15:33:43,184 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 15:33:43,184 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 15:35:03,791 :INFO : utilities.basefile :A info is executed 
+2023-07-06 15:35:03,791 :INFO : utilities.basefile :A info is executed 
+2023-07-06 15:35:03,791 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 15:35:03,791 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 15:35:03,792 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 15:35:03,792 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 15:35:03,792 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 15:35:03,792 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 15:45:23,624 :INFO : utilities.basefile :A info is executed 
+2023-07-06 15:45:23,625 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 15:45:23,625 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 15:45:23,625 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 15:45:46,167 :INFO : utilities.basefile :A info is executed 
+2023-07-06 15:45:46,167 :INFO : utilities.basefile :A info is executed 
+2023-07-06 15:45:46,168 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 15:45:46,168 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 15:45:46,168 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 15:45:46,168 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 15:45:46,169 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 15:45:46,169 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 17:05:54,964 :INFO : utilities.basefile :A info is executed 
+2023-07-06 17:05:54,965 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 17:05:54,965 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 17:05:54,966 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 17:06:20,414 :INFO : utilities.basefile :A info is executed 
+2023-07-06 17:06:20,414 :INFO : utilities.basefile :A info is executed 
+2023-07-06 17:06:20,414 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 17:06:20,414 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-06 17:06:20,414 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 17:06:20,414 :ERROR : utilities.basefile :A major error occur 
+2023-07-06 17:06:20,414 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-06 17:06:20,414 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-11 17:10:10,321 :INFO : utilities.basefile :A info is executed 
+2023-07-11 17:10:10,321 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-11 17:10:10,321 :ERROR : utilities.basefile :A major error occur 
+2023-07-11 17:10:10,321 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-11 17:11:29,832 :INFO : utilities.basefile :A info is executed 
+2023-07-11 17:11:29,832 :INFO : utilities.basefile :A info is executed 
+2023-07-11 17:11:29,832 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-11 17:11:29,832 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-11 17:11:29,832 :ERROR : utilities.basefile :A major error occur 
+2023-07-11 17:11:29,832 :ERROR : utilities.basefile :A major error occur 
+2023-07-11 17:11:29,832 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-11 17:11:29,832 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-12 13:42:43,318 :INFO : utilities.basefile :A info is executed 
+2023-07-12 13:42:43,378 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-12 13:42:43,378 :ERROR : utilities.basefile :A major error occur 
+2023-07-12 13:42:43,378 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-12 13:44:13,854 :INFO : utilities.basefile :A info is executed 
+2023-07-12 13:44:13,854 :INFO : utilities.basefile :A info is executed 
+2023-07-12 13:44:13,855 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-12 13:44:13,855 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-12 13:44:13,855 :ERROR : utilities.basefile :A major error occur 
+2023-07-12 13:44:13,855 :ERROR : utilities.basefile :A major error occur 
+2023-07-12 13:44:13,855 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-12 13:44:13,855 :CRITICAL : utilities.basefile :Critical issue 
+2023-07-12 13:47:25,375 :INFO : utilities.basefile :A info is executed 
+2023-07-12 13:47:25,375 :WARNING : utilities.basefile :Something is warning mode 
+2023-07-12 13:47:25,376 :ERROR : utilities.basefile :A major error occur 
+2023-07-12 13:47:25,376 :CRITICAL : utilities.basefile :Critical issue 
